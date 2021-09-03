@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Qzwx87mVSr9bFwDnhy/giphy.gif?cid=790b76118b00059120933e279cf0095ade13ccf2c911c5b2&rid=giphy.gif&ct=g" />
 </p>
 
-## Demo uygulama websitesi: [Minimal Blog - Ahmet Gürsel](https://php-minimal-blog.herokuapp.com/)
+## Demo uygulama web sitesi: [Minimal Blog - Ahmet Gürsel](https://php-minimal-blog.herokuapp.com/)
 
 Kullanılan Teknolojiler:
 
